@@ -1,6 +1,11 @@
-# ¿Quién conoce ese pokémon?
+# ¿Quién es ese pokémon?
 
-En la atualidad, la tendencia del mercado apunta a la nostalgía. Pensando en ello y tomando en cuenta que ambas colaboradoras del proyecto tenemos noción acerca de la serie Pokémon, decidimos realizar el proyecto sobre dicha data.
+En la actualidad, la tendencia del mercado apunta a la nostalgía. Pensando en ello y tomando en cuenta que ambas colaboradoras del proyecto tenemos noción acerca de la serie Pokémon, decidimos realizar el proyecto sobre dicha data.
+![proyecto-nostagia-1](/img/productos-nostalgia-a.jpg)
+![proyecto-nostagia-2](/img/productos-nostalgia-b.jpg)
+![proyecto-nostagia-3](/img/productos-nostalgia-c.jpg)
+
+El nombre de ¿Quién es ese pokémon? surge de un recuerdo de las caricaturas en nuestra infancia, ya que en cada corte comercial el narrador decia caracteristicas de algun pokémon con dicha frase y al regresar de los comerciales decía quien era ese pokémon.
 
 La data con la que contamos, es ideal para conocer a los pokemones y sus carasteristicas de forma inicial. Tomando en cuenta lo anterior nuestro producto va dirigido a usuarios nuevos que quieren integrarse al mundo Pokémon o para jugadores retirados que buscan volver al juego.
 
@@ -29,13 +34,27 @@ Después de realizar la encuesta, analizando las respuestas que nos proporcionar
 ![proyecto-app](/img/app.jpeg)
 
 # Historias de usuario
-- Como usuario nuevo quiero conocer las cacteristicas de los pokémon para poder tener una mayor comprensión del juego.
+- Como usuario nuevo quiero conocer las cacterísticas de los pokémon para poder tener una mayor comprensión del juego Pokémon Go.
 
-- Como usuario, quiero buscar(filtrar) y ordenar la data.
+- Como usuario quiero buscar por nombre los pokémon para conocer mejor la información de cada uno.
 
-- Como usuario quiero poder calcular las estadisticas de la colección o contar cuantas veces aparece determinado valor.
+- Como usuario quiero ordenar a los pokémon en orden alfabético ascendente y descendente para conocerlos a todos.
 
-- Como usuario quiero visualizar la información de los Pokémon desde distintos tamaños de pantallas: móviles. tablets y desktops.
+- Como usuario quiero poder calcular la altura promedio de los pokémon. 
+
+- Como usuario quiero visualizar la información de los Pokémon desde mi celular, tablet y computadora. 
+
+# Prototipo de alta fidelidad
+
+![proyecto-prototipo-a](/img/prototipo-01.png)
+
+![proyecto-prototipo-b](/img/prototipo-02.png)
+
+![proyecto-prototipo-c](/img/prototipo-03.png)
+
+![proyecto-prototipo-d](/img/prototipo-04.png)
+
+![proyecto-prototipo-e](/img/prototipo-05.png)
 
 # Construido con
 Este proyecto está implementado con:
